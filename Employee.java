@@ -11,7 +11,7 @@ public class Employee {
         this.id = id;
         this.salary = salary;
         this.address=address;
-   ;
+   
     }
 
     public void displayInfo() {
